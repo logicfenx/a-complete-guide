@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/a-complete-guide",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a a-complete-guide",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/a-complete-guide.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/en/guide-glass-top-gas-stoves/"
+    },
+    "homepage": "https://bitcu.co/en/guide-glass-top-gas-stoves/"
+}
